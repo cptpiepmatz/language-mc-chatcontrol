@@ -269,7 +269,7 @@
       }
     },
     {
-      "match": "^(ignore).(perm).([a-zA-Z\\.\\-])(.*)",
+      "match": "^(ignore).(perm).([a-zA-Z\\.\\-]+)(.*)",
       "captures": {
         "1": {
           "name": "keyword.other"

@@ -14,7 +14,7 @@
     "server",
     "plugin"
   ],
-  "repository": "https://github.com/atom/language-mc-chatcontrol",
+  "repository": "https://github.com/derPiepmatz/language-mc-chatcontrol",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"

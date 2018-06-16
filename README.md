@@ -7,7 +7,7 @@ You can find it [here](https://www.spigotmc.org/resources/chatcontrol.271/).
 ## Example
 
 Here some little example for how it may look like:
-(Link will be here)
+![Example](https://raw.githubusercontent.com/derPiepmatz/language-mc-chatcontrol/master/example.png)
 
 
 ## Installation
@@ -15,8 +15,8 @@ Here some little example for how it may look like:
 ### Command Line
 
  1. Check you have the newest version of [Atom](https://atom.io)
- 2. In the terminal, install the package via apm:
-	```sh
+ 2. In the terminal, install the package via apm: 
+	 ```sh
 	apm install language-mc-chatcontrol
 	```
 
@@ -49,3 +49,4 @@ To the first line of all of these files.
 I personally really love the plugin ChatControl and thought it would be useful to have some grammar for it. I started this private and I think others probably like it to.
 
 Thanks [kangarko](https://github.com/kangarko) for this nice work. ❤
+

@@ -1,6 +1,6 @@
 {
   "name": "language-mc-chatcontrol",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "description": "A language package for the free version of the spigot plugin ChatControl for Minecraft",
   "keywords": [
     "syntax",

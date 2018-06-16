@@ -1,9 +1,14 @@
 {
   "scopeName": "source.mc-chatcontrol",
-  "name": "McChatcontrol",
+  "name": "Chatcontrol Rule",
   "fileTypes": [
-    "txt"
+    "chat.txt",
+    "commands.txt",
+    "packets.txt",
+    "rules.txt",
+    "sign.txt"
   ],
+  "firstLineMatch": "^#.*([ChatControl|Rule|File]).*([ChatControl|Rule|File]).*([ChatControl|Rule|File]).*",
   "patterns": [
     {
       "match": "^#.*$",

@@ -1,6 +1,6 @@
 {
   "scopeName": "source.mc-chatcontrol",
-  "name": "Chatcontrol Rule",
+  "name": "ChatControl Rule",
   "fileTypes": [
     "chat.txt",
     "commands.txt",

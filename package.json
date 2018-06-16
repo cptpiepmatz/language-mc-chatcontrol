@@ -1,0 +1,22 @@
+{
+  "name": "language-mc-chatcontrol",
+  "version": "0.0.0",
+  "description": "A language package for the free version of the spigot plugin ChatControl for Minecraft",
+  "keywords": [
+    "syntax",
+    "language",
+    "grammar",
+    "minecraft",
+    "bukkit",
+    "spigot",
+    "chatcontrol",
+    "kangarko",
+    "server",
+    "plugin"
+  ],
+  "repository": "https://github.com/atom/language-mc-chatcontrol",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}

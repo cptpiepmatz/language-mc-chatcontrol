@@ -38,7 +38,7 @@
       "end": "(\\r\\n|\\r|\\n)",
       "patterns": [
         {
-          "match": "%player|%world",
+          "match": "%player|%world|%message",
           "name": "variable.language"
         },
         {
@@ -69,7 +69,7 @@
       "end": "(\\r\\n|\\r|\\n)",
       "patterns": [
         {
-          "match": "%player|%world",
+          "match": "%player|%world|%message",
           "name": "variable.language"
         },
         {
@@ -100,7 +100,7 @@
       "end": "(\\r\\n|\\r|\\n)",
       "patterns": [
         {
-          "match": "%player|%world",
+          "match": "%player|%world|%message",
           "name": "variable.language"
         },
         {
@@ -134,7 +134,7 @@
       "end": "(\\r\\n|\\r|\\n)",
       "patterns": [
         {
-          "match": "%player|%world",
+          "match": "%player|%world|%message",
           "name": "variable.language"
         },
         {
@@ -224,7 +224,7 @@
       "end": "(\\r\\n|\\r|\\n)",
       "patterns": [
         {
-          "match": "%player|%world",
+          "match": "%player|%world|%message",
           "name": "variable.language"
         },
         {
